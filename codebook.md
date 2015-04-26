@@ -11,5 +11,8 @@ PreData variable selects measurements of Mean and Standard deviation.  A mean is
 in the tidy.txt file.
 
 Citations:
+
 Code for run_analysis.R inspired by this blog: http://fecabin-blog.logdown.com/posts/206154-getting-and-clean-data
+
+
 Clarity for this project provided by numerous discussion posts by David Hood.
